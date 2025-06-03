@@ -1,4 +1,6 @@
 # Angel One MCP (Model Context Protocol)
+What is MCP:
+For detailed understanding follow the blog: https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/
 
 This repository contains the Model Context Protocol implementation for Angel One trading platform, allowing you to interact with Angel One's trading APIs to get history data and get portfolio data.
 
@@ -67,3 +69,8 @@ TOKEN = "your_token"  # Visit https://smartapi.angelbroking.com/enable-totp (cop
     }
   }
 ```
+## Configuration Test -- Snapshots
+![image](https://github.com/user-attachments/assets/32853727-39ed-4172-ad41-f04eec8184e5)
+![image](https://github.com/user-attachments/assets/fd03c68c-0d51-4197-b0a0-bf116e137e4c)
+
+
